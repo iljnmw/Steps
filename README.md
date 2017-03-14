@@ -4,7 +4,7 @@ Assignment D
 Title - Converging Worlds
 
 Short Abstract
-I will be making an algorithmic video using various algorithms to generate abstract visuals along with the soundtrack. This visual will be audio reactive. I will create several sketches to segment different parts and sounds giving it different variations and types of visual textures. This piece will evoke a sense of suspense as well as a sense of calm at certain points, pulling the viewer in and out of a space. The visual sketch will be divided into two with a thin line in the middle. This is to symbolise the separating between the two 'Worlds'. 
+I will be making an algorithmic video using various algorithms to generate abstract visuals along with the soundtrack. This visual will be audio reactive. I will create several sketches to segment different parts and sounds giving it different variations and types of visual textures. This piece will evoke a sense of suspense as well as a sense of calm at certain points, pulling the viewer in and out of a space. The visual sketch will be divided into two parts with a thin line in the middle. This is to symbolise the separating between the two 'Worlds'. Over time as the song progresses, the visuals from the two parts will be fused together, creating a sense of convergence. 
 
 Reference
 
